@@ -1,7 +1,7 @@
 # TAREA 25 PSP 👀
 
 
-> **Esta tarea consta de dos clases, la clase Main que se encargará de ejecutar el programa y la clase EscaneoPuertos, la cual contiene los métodos que necesita la Main para llevar a cabo el las tareas solicitadas en el enunciado. 💣💣** 
+> **Esta tarea consta de dos clases, la clase Main, se encargará de ejecutar el programa y la clase EscaneoPuertos, la cual contiene los métodos que necesita la Main para llevar a cabo el las tareas solicitadas en el enunciado. 💣💣** 
 
 ---
 
